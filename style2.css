@@ -1,0 +1,49 @@
+.header{
+    color: white;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px;
+    border-bottom: 10px solid white;
+}
+.headerright{
+    text-align: right;
+    font-size: smaller;
+    color:white;
+    background-color: red;
+ }
+.headerleft{
+    text-align: left;
+    font-size: large;
+    color:white;
+    background-color: red;
+ }
+ .h1{
+    padding-bottom: 20px;
+ }
+ .h3{
+    padding-bottom:0px;
+ }
+ .columnheader{
+    color: black;
+    background-color: white;
+    width: 66%;
+    text-align: left;
+    align-items: left;
+    justify-content:space-between;
+    margin:10px;
+ }
+.column{
+    column-count: 3;
+    background-color:white;
+    column-fill:auto;
+    margin:20px;
+} 
+.first-letter{
+  font-size: 35px;
+  line-height: 70px;
+}
+div.a {
+  text-indent: 50px;
+}
